@@ -1,2 +1,2 @@
-py-dateutil
+python-dateutil
 docker-py>=1.0.0
